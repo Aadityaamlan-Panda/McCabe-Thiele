@@ -74,10 +74,19 @@ Make sure you have MATLAB installed with the required toolboxes:
 
 ## 🖼️ Images
 
+### Equilibrium Curve
+
+*VLE equilibrium curve with experimental data points and fitted model*
+
+<img src="images/eqm.png" alt="Equilibrium Curve Diagram" width="600">
+
+
 ### McCabe-Thiele Diagram
 
 *Complete McCabe-Thiele construction showing all operating lines and theoretical stages*
--![Diagram](images/plot.png)
+
+<img src="images/plot.png" alt="Equilibrium Curve Diagram" width="600">
+
 
 ## 📊 Expected Results
 
@@ -125,4 +134,5 @@ Indian Institute of Technology, Kanpur, India 🇮🇳
 ## 🏷️ Keywords
 
 `distillation` `chemical-engineering` `matlab` `mccabe-thiele` `vapor-liquid-equilibrium` `process-design` `separation` `mass-transfer`﻿# McCabe-Thiele
+
 
